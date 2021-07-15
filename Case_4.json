@@ -1,0 +1,48 @@
+[
+  {
+    "department": {
+      "id": "004",
+      "name": "Grocery"
+    },
+    "ecom-only-item": false,
+    "item-address": {
+      "aisle": "15A",
+      "bay": "1"
+    },
+    "item-type": "REG",
+    "mfc-stop-buy": true,
+    "mfc-stop-fulfill": false,
+    "sleeping-area": "A",
+    "store-id": "124",
+    "supplier-info": [
+      {
+        "supplier-id": "02759",
+        "supplier-keep-buy": false,
+        "supplier-name": "BOZZUTO'S INC",
+        "supplier-product-id": "145861",
+        "supplier-type": "DC"
+      },
+      {
+        "supplier-id": "99208",
+        "supplier-keep-buy": false,
+        "supplier-name": "TOPCO - JAMES AUSTIN",
+        "supplier-product-id": "0904420",
+        "supplier-type": "DSD"
+      },
+      {
+        "supplier-id": "341",
+        "supplier-keep-buy": false,
+        "supplier-name": "Big Y DCDG",
+        "supplier-product-id": "0904432",
+        "supplier-type": "DSD"
+      },
+      {
+        "supplier-id": "09999",
+        "supplier-keep-buy": false,
+        "supplier-name": "Big Y DCDG",
+        "supplier-product-id": "904432",
+        "supplier-type": "DC"
+      }
+    ]
+  }
+]
